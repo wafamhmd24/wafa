@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+.header, .footer {
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    margin: 0px 30px;
+}
+
+.content p {
+    text-align: justify;
+}
+
+img {
+    width: 70%;
+}
+
+.menu {
+    float: right;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
